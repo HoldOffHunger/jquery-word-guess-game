@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-"# jquery-crossword-puzzle-generator" 
-"# jquery-word-guess-game" 
-"# jquery-word-guess-game" 
-=======
 100% JQuery Crossword Puzzle Generator and Game
 
 Demo:
